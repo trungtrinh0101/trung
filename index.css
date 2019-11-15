@@ -1,0 +1,24 @@
+.navbar-brand{
+	width: 70px;
+}
+.navbar-collapse {
+	float: left;
+}
+.nav-link{
+	width: 60px;	
+	text-align: center;
+}
+.nav-link:hover{
+	color: white;
+}
+.navbar ul{
+	padding-left: 350px;
+}
+
+.khung::before{
+	font-family: fantasy;
+	content:"\201C";
+	position: absolute;
+	font-size: 4rem;
+	top:-20px;
+}	
